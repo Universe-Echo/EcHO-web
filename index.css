@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+body {
+    background: rgb(255, 204, 109);
+    background: linear-gradient(90deg, rgba(255, 204, 109, 1) 0%, rgba(255, 161, 90, 0.6643032212885154) 50%);
+}
+
+
+
+#heading {
+    display: flex;
+    text-align: center;
+    /* border: dashed black; */
+    margin-left: 36%;
+    margin-top: 5%;
+    width: 26%;
+
+}
+
+.nav {
+    width: 100%;
+    /* border: dashed black; */
+    background-color: #f8e6a0;
+    display: flex;
+    /* justify-content: right; */
+
+}
+
+.dropdown-menu {
+    background-color: #f8e6a0;
+}
+
+.maintext {
+    font-size: 1.3vw;
+    font-weight: lighter;
+}
+
+#maintextcon {
+    border: dotted black;
+    /* margin: 0%; */
+    margin: 4%;
+text-align: center;
+width: auto;
+height: auto;
+}
+
+.card-body {
+    
+    background-color: #f8e6a0;
+   
+}
